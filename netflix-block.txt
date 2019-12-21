@@ -19,6 +19,8 @@ anycast.ftl.netflix.com
 assets.nflxext.com
 appboot.netflix.com
 api-global.netflix.com
+android-appboot.netflix.com
+android.prod.cloud.netflix.com
 www.nflxvideo.net
 www.netflix.com
 www.nflximg.net
