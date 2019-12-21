@@ -1,18 +1,18 @@
 #my short list to block netflix access, probably won't work for you
 
-0.0.0.0 android.prod.ftl.netflix.com
-0.0.0.0 android.prod.cloud.netflix.com
-0.0.0.0 occ-0-2506-999.1.nflxso.net
-0.0.0.0 android-appboot.netflix.com
-0.0.0.0 ipv4-c018-was001-ix.1.oca.nflxvideo.net
-0.0.0.0 ipv4-c002-waw001-orangepl-isp.1.oca.nflxvideo.net
-0.0.0.0 ipv4-c001-bxp001-orangepl-isp.1.oca.nflxvideo.net
-0.0.0.0 ipv4-c008-waw002-orangepl-isp.1.oca.nflxvideo.net
-0.0.0.0 ipv4-c358-nyc001-ix.1.oca.nflxvideo.net
-0.0.0.0 api-global.netflix.com
-0.0.0.0 www.nflxvideo.net
-0.0.0.0 www.netflix.com
-0.0.0.0 www.nflximg.net
-0.0.0.0 www.nflxext.com
-0.0.0.0 hbbtv.services.tvn.pl 
+android.prod.ftl.netflix.com
+android.prod.cloud.netflix.com
+occ-0-2506-999.1.nflxso.net
+android-appboot.netflix.com
+ipv4-c018-was001-ix.1.oca.nflxvideo.net
+ipv4-c002-waw001-orangepl-isp.1.oca.nflxvideo.net
+ipv4-c001-bxp001-orangepl-isp.1.oca.nflxvideo.net
+ipv4-c008-waw002-orangepl-isp.1.oca.nflxvideo.net
+ipv4-c358-nyc001-ix.1.oca.nflxvideo.net
+api-global.netflix.com
+www.nflxvideo.net
+www.netflix.com
+www.nflximg.net
+www.nflxext.com
+hbbtv.services.tvn.pl 
 #/\ to żeby zablokować te debilne telewizyjne gierki na tvn'ie
