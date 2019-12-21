@@ -8,11 +8,24 @@ ipv4-c018-was001-ix.1.oca.nflxvideo.net
 ipv4-c002-waw001-orangepl-isp.1.oca.nflxvideo.net
 ipv4-c001-bxp001-orangepl-isp.1.oca.nflxvideo.net
 ipv4-c008-waw002-orangepl-isp.1.oca.nflxvideo.net
+oca-api.eu-west-1.origin.prodaa.netflix.com
+cfovz7wjnhwnahxg3z6ys-euw1.r.nflxso.net
 ipv4-c358-nyc001-ix.1.oca.nflxvideo.net
+oca-api.us-west-2.origin.prodaa.netflix.com
+www.eu-west-1.prodaa.netflix.com
+oca-api.us-east-1.origin.prodaa.netflix.com
+secure.netflix.com
+anycast.ftl.netflix.com
+assets.nflxext.com
+appboot.netflix.com
 api-global.netflix.com
 www.nflxvideo.net
 www.netflix.com
 www.nflximg.net
 www.nflxext.com
+netflix.com
+nflxvideo.net
+nflximg.net
+nflxext.com
 hbbtv.services.tvn.pl 
 #/\ to żeby zablokować te debilne telewizyjne gierki na tvn'ie
